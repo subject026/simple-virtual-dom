@@ -1,0 +1,13 @@
+{
+  "name": "vdom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<sudobuildspeakers@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3"
+  }
+}
